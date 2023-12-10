@@ -3348,4 +3348,6 @@ input, select, textarea {
   
   .button-link:hover {
 	background-color: #dc4e4e;
+	color: #000000 !important;
+	font-weight: bold;
   }
